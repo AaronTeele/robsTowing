@@ -1,0 +1,1 @@
+This is a site I designed using HTML, CSS and Bootstrap. I will be redisigning it and adding some JavaScript as well.
